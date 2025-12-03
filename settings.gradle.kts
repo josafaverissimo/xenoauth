@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = "xenoauth"
-include("projects:api")
+include("modules:api")
